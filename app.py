@@ -1,4 +1,3 @@
-```python
 # Baustein 1 & 3: Das "Gehirn" & Die "Brücke" - Kombinierte Backend-Logik
 # Dieser Code simuliert einen Webserver, der Anfragen vom Frontend entgegennimmt
 # und den Gesprächsfluss des Onboarding Managers steuert.
@@ -666,4 +665,3 @@ if __name__ == "__main__":
     print("\n... (Simulation: Mitarbeiter absolviert die restlichen Nuggets bis 21) ...\n")
     manager_day_2.current_nugget = 22 # Setze den Zähler auf das Ende
     manager_day_2.run_learning_nugget(manager_day_2.current_nugget)
-```
